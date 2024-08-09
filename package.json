@@ -1,4 +1,6 @@
 {
+  "name": "Ops.Standalone.Pacote",
+  "version": "0.0.1",
   "files": [
     "Ops.Standalone.Pacote.json",
     "Ops.Standalone.Pacote.js"
