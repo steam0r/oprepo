@@ -12,5 +12,5 @@ console.log("desktop");
 
 exec.onTriggered = () =>
 {
-    result.set(myNumber.get() * 100);
+    result.set(myNumber.get() * 200);
 };
