@@ -1,0 +1,9 @@
+{
+  "name": "Ops.Extension.Standalone.Net.Osc",
+  "version": "0.0.1",
+  "files": [
+    "Ops.Extension.Standalone.Net.Osc.json",
+    "Ops.Extension.Standalone.Net.Osc.js"
+    "Ops.Extension.Standalone.Net.Osc.md"
+  ]
+}
