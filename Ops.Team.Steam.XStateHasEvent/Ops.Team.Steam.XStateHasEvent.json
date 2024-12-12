@@ -1,0 +1,44 @@
+{
+    "id": "84dedce4-e7da-48ae-8bef-3df90254e7d8",
+    "changelog": [
+        {
+            "message": "created op",
+            "author": "stephan",
+            "date": 1698421800528
+        },
+        {
+            "message": "Ops.Patch.Pg2G7NJ.XStateHasEvent renamed to Ops.Team.Undev.XStateHasEvent",
+            "type": "rename",
+            "author": "stephan",
+            "date": 1698423736080
+        },
+        {
+            "message": "Ops.Team.Undev.XStateHasEvent renamed to Ops.Team.Steam.XStateHasEvent",
+            "type": "rename",
+            "author": "stephan",
+            "date": 1730210477963
+        }
+    ],
+    "layout": {
+        "portsIn": [
+            {
+                "type": 2,
+                "name": "actor",
+                "objType": "xstate actor"
+            },
+            {
+                "type": 5,
+                "name": "event"
+            }
+        ],
+        "portsOut": [
+            {
+                "type": 0,
+                "name": "has",
+                "subType": "boolean"
+            }
+        ]
+    },
+    "authorName": "stephan",
+    "created": 1698421963150
+}

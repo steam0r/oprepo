@@ -1,0 +1,42 @@
+{
+    "id": "52ee67c7-af6c-4559-b091-b2767e02e830",
+    "changelog": [
+        {
+            "message": "created op",
+            "author": "stephan",
+            "date": 1698412427021
+        },
+        {
+            "message": "Ops.Patch.Pg2G7NJ.XStateTransition renamed to Ops.Team.Undev.XStateTransition",
+            "type": "rename",
+            "author": "stephan",
+            "date": 1698424003568
+        },
+        {
+            "message": "Ops.Team.Undev.XStateTransition renamed to Ops.Team.Steam.XStateTransition",
+            "type": "rename",
+            "author": "stephan",
+            "date": 1730210512329
+        }
+    ],
+    "layout": {
+        "portsIn": [
+            {
+                "type": 2,
+                "name": "actor",
+                "objType": "xstate actor"
+            },
+            {
+                "type": 1,
+                "name": "exec"
+            },
+            {
+                "type": 5,
+                "name": "event"
+            }
+        ],
+        "portsOut": []
+    },
+    "authorName": "stephan",
+    "created": 1698412633561
+}

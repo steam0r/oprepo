@@ -1,0 +1,69 @@
+{
+    "id": "6769e601-4705-4baa-9f82-4ed5cc83750f",
+    "changelog": [
+        {
+            "message": "created op",
+            "author": "stephan",
+            "date": 1698410017140
+        },
+        {
+            "message": " added lib: /assets/653badbace104e5ed29ce610/xstate.web.js",
+            "type": "",
+            "author": "stephan",
+            "date": 1698410024494
+        },
+        {
+            "message": " removed lib: /assets/653badbace104e5ed29ce610/xstate.web.js",
+            "type": "",
+            "author": "stephan",
+            "date": 1698410878279
+        },
+        {
+            "message": " added lib: /assets/653badbace104e5ed29ce610/xstate.js",
+            "type": "",
+            "author": "stephan",
+            "date": 1698410882179
+        },
+        {
+            "message": "Ops.Patch.Pg2G7NJ.XState renamed to Ops.Team.Undev.XStateMachine",
+            "type": "rename",
+            "author": "stephan",
+            "date": 1698423771568
+        },
+        {
+            "message": "Ops.Team.Undev.XStateMachine renamed to Ops.Team.Steam.XStateMachine",
+            "type": "rename",
+            "author": "stephan",
+            "date": 1730210498966
+        }
+    ],
+    "layout": {
+        "portsIn": [
+            {
+                "type": 2,
+                "name": "definition",
+                "objType": "xstate definition"
+            },
+            {
+                "type": 1,
+                "name": "start"
+            }
+        ],
+        "portsOut": [
+            {
+                "type": 2,
+                "name": "actor",
+                "objType": "xstate actor"
+            },
+            {
+                "type": 5,
+                "name": "state"
+            }
+        ]
+    },
+    "libs": [
+        "/assets/653ba720a47f970283fc9ee2/xstate.js"
+    ],
+    "authorName": "stephan",
+    "created": 1698410298876
+}

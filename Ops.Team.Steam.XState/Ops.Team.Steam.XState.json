@@ -1,0 +1,33 @@
+{
+    "id": "aedcae42-9341-474f-a07d-d7c6172cad19",
+    "changelog": [
+        {
+            "message": "created op",
+            "author": "stephan",
+            "date": 1698408265740
+        },
+        {
+            "message": " added lib: /assets/653ba720a47f970283fc9ee2/xstate.web.js",
+            "type": "",
+            "author": "stephan",
+            "date": 1698408973066
+        },
+        {
+            "message": " removed lib: /assets/653ba720a47f970283fc9ee2/xstate.web.js",
+            "type": "",
+            "author": "stephan",
+            "date": 1698410847095
+        },
+        {
+            "message": "Ops.Team.Undev.XState renamed to Ops.Team.Steam.XState",
+            "type": "rename",
+            "author": "stephan",
+            "date": 1730210465738
+        }
+    ],
+    "layout": {
+        "portsIn": [],
+        "portsOut": []
+    },
+    "libs": []
+}
